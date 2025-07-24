@@ -1,0 +1,78 @@
+.main-heading {
+    font-size: 6em;
+    text-align: right;
+    margin-bottom: 2px;
+    padding-right: 40px;
+    margin-top: 2px;
+    color: #1828C2;
+}
+.stinger {
+    color: #1828C2;
+    font-weight: bold;
+    font-family: 'stinger', sans-serif;
+}
+.sanshiro{
+    color: #1828C2;
+    font-family: 'sanshiro', sans-serif;
+    letter-spacing: 2px;
+}
+.projects-section {
+  padding: 30px;
+  font-family: 'sanshiro', sans-serif;
+  background-color: #fff;
+}
+
+.section-title {
+  font-size: 3.5rem;
+  font-weight: bold;
+  color: #1828C2;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.project-block {
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.project-header {
+    font-size: 4rem;
+  display: flex;
+  align-items: center;
+  gap: 100px;
+  margin-bottom: 15px;
+  justify-content: flex-start;
+}
+
+.project-number {
+  font-size: 4rem;
+  font-weight: bold;
+  color: #1828C2;
+  font-family: 'sanshiro',sans-serif;
+}
+
+.project-title-img {
+  height: 30px;
+  object-fit: contain;
+}
+
+.project-image {
+  width: 90%;
+  max-width: 400px;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+.title{
+      font-size: 3.5rem;
+}
+
+.return a {
+  color: #1828C2;
+  text-decoration: none;
+  border-bottom: 1px solid #1828C2;
+    font-size: 1.5rem;
+    letter-spacing: 1.5px;
+}
+body{
+    background-color:#1828C2
+}

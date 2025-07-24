@@ -1,0 +1,128 @@
+body{
+    background-color: #1828C2;
+}
+main-section {
+    color: #fff;
+}
+.main-heading {
+    font-size: 6em;
+    text-align: right;
+    margin-bottom: 2px;
+    padding-right: 40px;
+    margin-top: 2px;
+}
+.stinger {
+    font-weight: bold;
+    font-family: 'stinger', sans-serif;
+}
+.sanshiro{
+    
+    font-family: 'sanshiro', sans-serif;
+}
+
+.timeline {
+  margin-top: 20px;
+  padding-left: 40px;
+}
+
+.edu-block {
+  display: flex;
+  margin-bottom: 50px;
+}
+
+.year {
+  writing-mode: horizontal-tb;
+  transform: rotate(0deg);
+  font-size: 4rem;
+  color: #FFD700;
+  margin-right: 20px;
+  letter-spacing: 3px;
+}
+
+.edu-text h2 {
+  font-size: 4rem;
+  margin: 0;
+  font-weight: bold;
+}
+
+.edu-text p {
+  margin: 5px 0;
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+
+
+.skills-section {
+  margin-top: 40px;
+}
+
+.section-heading {
+    font-size: 5rem;
+    text-align: right;
+    margin-bottom: 2px;
+    padding-right: 40px;
+    margin-top: 2px;
+    letter-spacing: 2px;
+}
+
+.skill-category {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 50px;
+}
+
+.side-label {
+  writing-mode: horizontal-tb;
+  transform: rotate(0deg);
+  font-size: 3.5rem;
+  color: #FFD700;
+  margin-right: 20px;
+  margin-left: 40px;
+  letter-spacing: 3px;
+  
+}
+
+ul {
+  list-style-type: disc;
+  padding-left: 20px;
+    font-size: 2rem;
+    letter-spacing: 1px;
+}
+
+ul li {
+  margin-bottom: 8px;
+}
+
+.return {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.return a {
+  color: white;
+  text-decoration: none;
+  border-bottom: 1px solid white;
+    font-size: 1.5rem;
+    letter-spacing: 1.5px;
+}
+.dot{
+    position: relative;
+    top: 0;
+    padding-left: 30px;
+    align-items: right;
+    width: 250px;
+    height: 50px;
+}
+.dot2{
+    .dot{
+    position: relative;
+    top: 0;
+    padding-left: 30px;
+    align-items: right;
+    width: 250px;
+    height: 50px;
+}
+    right: 0px;
+    transform: translateX(1200px);
+}

@@ -1,0 +1,177 @@
+.zoom-wrapper{
+    transform: scale(1.);
+    transform-origin: top center;
+}
+.heading-wrapper{
+      position: relative;
+    padding: 10px;
+    min-height: 50vh;
+    margin-top: 5px;
+}
+.heading-row{
+    text-align: left;
+    margin-bottom: 30px;
+}
+.heading{
+   text-align: end;
+    left: 200px;
+    font-size: 9vw;
+    
+}
+.font-one{
+    color: #1828C2;
+    font-family: 'stinger',sans-serif;
+    margin-right: 5px;
+}
+.font-two{
+    color:#1828C2;
+    font-family: 'sanshiro',sans-serif;
+    margin-right: 10px;
+}
+
+.image-row{
+    display: flex;
+    
+    gap: 60px;
+    
+    flex-wrap: wrap;
+}
+.text-block{
+    max-width: 1100px;
+}
+.image{
+    position: relative;
+    align-items: start;
+    padding-left: 50px;
+    transform: translateY(-300px);
+}
+.sub-heading{
+    align-items: left;
+    justify-content: left;
+    right: 200px;
+    font-size: 5vw;
+}
+.sub-font1{
+    color: #1828C2;
+    font-family: 'stinger', sans-serif;
+
+}
+.sub-font2{
+    color: #1828C2;
+    font-family: 'sanshiro',sans-serif;
+}
+.sub-desc{
+    font-size: 2rem;
+    text-align: end;
+    padding-right: 5px;
+    font-family: 'sanshiro',sans-serif;
+    color: #444242;
+    
+}
+.my-journey{
+    position: relative;
+    align-items: left;
+    left: 950px;
+    transform: translateY(-600px);
+}
+
+.flex-container{
+    display: flex;
+    gap: 60px;
+    flex-wrap: wrap;
+}
+.left-desc{
+    max-width: 800px;
+    transform: translateY(-225px);
+    font-size: 2rem;
+    text-align: left;
+    padding-left: 50px;
+    font-family: 'sanshiro', sans-serif;
+    color: #444242;
+}
+.text-blockk{
+    max-width: fit-content;
+}
+.goal{
+    position: relative;
+    align-items: left;
+    scale: 0.9;
+    left: 0px;
+    transform: translateY(-900px);
+    font-size: 2rem;
+    text-align: left;
+    padding-left: 50px;
+    font-family: 'sanshiro', sans-serif;
+    color: #444242;
+}
+.goal-heading{
+    font-size: 5vw;
+    text-align: left;
+    padding-right: 5px;
+    font-family: 'sanshiro', sans-serif;
+    color: #1828C2;
+}
+.goal-desc{
+    font-size: 2rem;
+    text-align: left;
+    padding-left: 40px;
+    font-family: 'sanshiro', sans-serif;
+    color: #444242;
+    width: 800px;
+    transform: translateY(-820px);
+}
+.interest{
+    position: relative;
+    align-items: left;
+    left: 0px;
+    transform: translateY(-800px);
+    font-size: 5rem;
+    text-align: left;
+    padding-left: 40px;
+    font-family: 'sanshiro', sans-serif;
+    color: #444242;
+}
+.interest-table{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    font-family: 'sanshiro', sans-serif;
+    color: #444242;
+    font-size: 2rem;
+    transform: translateY(-800px);
+}   
+.interest-item{
+    border: 0px solid #ddd;
+    padding: 40px;
+    text-align: left;
+}
+.ambition-image{
+    position: relative;
+    right: -280px;
+    transform: translateY(-800px);
+    width: 100%;
+    height: auto;
+    max-width: 1200px;
+}
+.return-text{
+    position: relative;
+    align-items: center;
+    transform: translateY(-800px);
+    font-size: 2rem;
+    text-align: center;
+    font-family: 'sanshiro', sans-serif;
+    color: #1828C2;
+}
+.custom-button {
+    color: #1828C2;
+    border: none;
+    padding: 0px 20px;
+    font-family: 'stinger', sans-serif;
+    font-size: 2rem;
+    cursor: pointer;
+    border-radius: 3px;
+    text-decoration: none;
+}
+.custom-button:hover {
+  background-color: white;
+}
